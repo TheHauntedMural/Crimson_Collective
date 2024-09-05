@@ -6,8 +6,8 @@ I'll see if I can fix the problem or send you a PDF or docx file. Below is a mas
 
 Most importantly, have fun! :D 
 
-1. Crimson-Collective Main Story
-2. Crimson-Collective Characters
-3. Crimson-Collective Geography and or Setting
-4. Crimson-Collective Morals and or Psychology
-5. Crimson-Collective Laws
+1. [Crimson-Collective Main Story](CrimsonCollective_MainStory.md)
+2. [Crimson-Collective Characters](CrimsonCollective_Characters.md)
+3. [Crimson-Collective Geography and or Setting](CrimsonCollective_Geography.md)
+4. [Crimson-Collective Morals and or Psychology](CrimsonCollective_Morals)
+5. [Crimson-Collective Laws](CrimsonCollective_Laws.md)
