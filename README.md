@@ -9,5 +9,5 @@ Most importantly, have fun! :D
 1. [Crimson-Collective Main Story](CrimsonCollective_MainStory.md)
 2. [Crimson-Collective Characters](CrimsonCollective_Characters.md)
 3. [Crimson-Collective Geography and or Setting](CrimsonCollective_Geography.md)
-4. [Crimson-Collective Morals and or Psychology](CrimsonCollective_Morals)
+4. [Crimson-Collective Morals and or Psychology](CrimsonCollective_Morals.md)
 5. [Crimson-Collective Laws](CrimsonCollective_Laws.md)
