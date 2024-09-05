@@ -9,7 +9,7 @@ The nurses breach HIPAA regulations by breaking ethical rules, breaking into dat
 They leave no digital trace and never claim credit for their work — until one small error reveals their identity.
 
 An investigative journalist discovers the existence of the Crimson Collective after a well-known patient passes away unexpectedly while pursuing a trail of stolen medical information. 
-But when she looks further, she finds evidence of a criminal network within the hospital that extends well beyond organ trafficking, not just a bunch of renegade nurses. 
-Now that her life is in jeopardy, she must choose between joining the Crimson Collective on their dangerous journey or exposing them and risking countless lives.
+But when they look further, they find evidence of a criminal network within the hospital that extends well beyond organ trafficking, not just a bunch of renegade nurses. 
+Now that their life is in jeopardy, they must choose between joining the Crimson Collective on their dangerous journey or exposing them and risking countless lives.
 
 "They bent the rules to save lives — now someone’s ready to bury them for it."
