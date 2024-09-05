@@ -8,7 +8,6 @@ Most importantly, have fun! :D
 
 1. Crimson-Collective Main Story
 2. Crimson-Collective Characters
-3. Crimson-Collective Culture
-4. Crimson-Collective Geography and or Setting
-5. Crimson-Collective Morals and or Psychology
-6. Crimson-Collective Laws
+3. Crimson-Collective Geography and or Setting
+4. Crimson-Collective Morals and or Psychology
+5. Crimson-Collective Laws
